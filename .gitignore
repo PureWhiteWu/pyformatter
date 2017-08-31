@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.DS_Store
+.env/
+*.pyc
+
+inventory.ini
+.idea/
+dist
+
+htmlcov
