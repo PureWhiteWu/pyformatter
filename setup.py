@@ -15,6 +15,6 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'PyYAML==3.12',
+        'PyYAML==5.1',
     ],
 )
